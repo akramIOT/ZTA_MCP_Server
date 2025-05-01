@@ -1,4 +1,3 @@
-# README.md (excerpt for authentication section)
 """
 ##  ZTA Paradigm based MCP Server Authentication Setup
 
